@@ -1,0 +1,42 @@
+{
+  "koders": [
+    {
+      "id": 2,
+      "name": "Jesús",
+      "lastName": "Mendoza",
+      "age": 23,
+      "adress": "Querétaro",
+      "updated": true
+    },
+    {
+      "id": 3,
+      "name": "Karla",
+      "lastName": "Medina",
+      "age": 22,
+      "adress": "Querétaro",
+      "updated": true
+    },
+    {
+      "id": 4,
+      "name": "Sofía",
+      "lastName": "Dávalos",
+      "age": 22,
+      "adress": "Querétaro"
+    },
+    {
+      "id": 5,
+      "name": "test",
+      "lastName": "test",
+      "age": 22,
+      "adress": "Querétaro",
+      "updated": true
+    },
+    {
+      "id": 6,
+      "name": "test",
+      "lastName": "test",
+      "age": 22,
+      "adress": "Querétaro"
+    }
+  ]
+}
